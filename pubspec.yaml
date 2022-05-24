@@ -1,0 +1,13 @@
+name: logecom_dio
+description: HTTP Dio interceptor for Logecom logging library
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ">=2.13.0 <3.0.0"
+
+dependencies:
+  dio: ^4.0.0
+  logecom: ^0.0.1
+
+dev_dependencies:
